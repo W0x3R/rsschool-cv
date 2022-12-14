@@ -19,9 +19,18 @@ body {
     width: 40%;
 }
 .image {
-    width: 70%;
-    border-radius: 140px;
+    width: 55%;
     margin: 0 70px; 
+}
+.imgsvg {
+    position: relative;
+    left: 0px;
+    top: 6px;
+}
+.myskillsvg {
+    position: relative;
+    right: 4px;
+    top: 6px;
 }
 .header-selection {
     display: flex;
@@ -84,7 +93,7 @@ body {
     margin: 0 0 10px 0;
 }
 .pre {
-    font-family: cursive;
+    font-family: sans-serif;
     margin: 0;
 }
 .footer {
