@@ -10,3 +10,19 @@
 - **Discord** - Stanislau Vyrski#6960
 
 ---
+
+### About me:
+
+Hello, my name is Stanislau. I'm 27 y.o. I'm from Belarus. I want to be a frontend developer.Every day i try to become much better.
+
+---
+
+### My skills:
+
+- HTML and CSS;
+- Git and Git-Hub;
+- Vs Code;
+- Javascript;
+- Figma;
+
+---
