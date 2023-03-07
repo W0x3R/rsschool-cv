@@ -1,0 +1,74 @@
+@media (max-width: 780px) {
+  .image {
+    width: 180px;
+  }
+  .header-title {
+    font-size: 20px;
+    margin: 0px 0 10px 0;
+  }
+  .header-title-two {
+    font-size: 16px;
+    margin-bottom: 13px;
+  }
+  .ul-header {
+    gap: 8px;
+  }
+  .adaptive-link {
+    width: 38px;
+  }
+  .main-title {
+    font-size: 18px;
+    margin: 0px 0 5px 0;
+  }
+  .main-text-blockone {
+    font-size: 12px;
+  }
+  .text-project {
+    font-size: 14px;
+  }
+  .plants-img {
+    width: 220px;
+    height: 103px;
+  }
+  .momentum-img {
+    width: 220px;
+    height: 103px;
+  }
+  .list {
+    font-size: 12px;
+    margin: 0 0 8px 0;
+  }
+  .main-title-blocktwo-first {
+    font-size: 18px;
+  }
+  .main-text-blocktwo {
+    margin: 0 5px 5px 5px;
+    font-size: 12px;
+  }
+  .main-title-blocktwo {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  .pre {
+    font-size: 12px;
+  }
+  .result-school-certificate {
+    width: 186px;
+    margin-top: 10px;
+  }
+  .rs-school-certificate {
+    width: 220px;
+    margin-top: 10px;
+  }
+  .footer-link {
+    font-size: 14px;
+  }
+  .footer-date {
+    font-size: 14px;
+  }
+  .rs-logo-footer {
+    width: 60px;
+    height: 25px;
+  }
+}
